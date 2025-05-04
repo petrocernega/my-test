@@ -1,0 +1,9 @@
+
+<svg viewBox="0 0 40 60" xmlns="http://www.w3.org/2000/svg">
+    <!-- Цифра 1 в стилі семисегментного дисплея -->
+    <path d="M25,5 L25,55" 
+          fill="none" 
+          stroke="#ffffff" 
+          stroke-width="8" 
+          stroke-linecap="square"/>
+</svg>
